@@ -14,6 +14,8 @@
 <a href="https://linkedin.com/in/ketan rakesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ketan rakesh" height="30" width="40" /></a>
 <a href="https://instagram.com/k10rakesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k10rakesh" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/rakeshketan28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rakeshketan28" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/BqsIVi4IdT/" target="_blank"><img align = "center" src="https://cdn.simpleicons.org/leetcode" alt="ketan rakesh" width="40" height="30">
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
