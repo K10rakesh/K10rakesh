@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ketan Rakesh</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on [taskly](https://github.com/K10rakesh/taskly)
+- 🔭 I’m currently working on [career-buddy](https://github.com/K10rakesh/career-buddy)
 
 - 🌱 I’m currently learning **full stack web development**
 
